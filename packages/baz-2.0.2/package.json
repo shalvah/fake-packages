@@ -5,5 +5,8 @@
   "license": "ISC",
   "dependencies": {
     "@shalvah/quux": "3.x"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

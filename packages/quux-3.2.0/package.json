@@ -5,5 +5,8 @@
   "license": "ISC",
   "dependencies": {
     "@shalvah/bar": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

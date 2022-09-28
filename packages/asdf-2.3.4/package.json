@@ -3,5 +3,8 @@
   "version": "2.3.4",
   "main": "index.js",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
 }
