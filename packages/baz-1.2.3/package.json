@@ -1,0 +1,9 @@
+{
+  "name": "@shalvah/baz",
+  "version": "1.2.3",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@shalvah/quux": "3.x"
+  }
+}

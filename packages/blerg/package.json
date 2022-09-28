@@ -1,0 +1,7 @@
+{
+  "name": "@shalvah/blerg",
+  "version": "1.2.5",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {}
+}

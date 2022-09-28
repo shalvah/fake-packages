@@ -4,5 +4,6 @@
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
+    "@shalvah/bar": "*"
   }
 }
