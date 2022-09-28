@@ -1,0 +1,10 @@
+{
+  "name": "foo",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@shalvah/blerg": "1.2.5",
+    "@shalvah/bar": "1.2.3",
+    "@shalvah/baz": "1.2.3"
+  }
+}
